@@ -1,0 +1,21 @@
+  # Python
+   __pycache__/
+   *.py[cod]
+   *.pyo
+   *.pyd
+   .Python
+   env/
+   venv/
+   myenv/
+   .env
+   .venv
+   .idea/
+   .vscode/
+   *.egg-info/
+   *.egg
+   .DS_Store
+   .ipynb_checkpoints
+   ethiopia-addis-ababa-subcities/
+   ET14 - Addis Ababa GRID 3 Settlements + Admin3/
+   aa_worda_boundary/
+   .eth_relative_wealth_index.csv

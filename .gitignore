@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -15,7 +14,7 @@ myenv/
 *.egg
 .DS_Store
 .ipynb_checkpoints
-./ethiopia-addis-ababa-subcities
-./ET14 - Addis Ababa GRID 3 Settlements + Admin3
-./aa_worda_boundary
+ethiopia-addis-ababa-subcities/
+ET14 - Addis Ababa GRID 3 Settlements + Admin3/
+aa_worda_boundary/
 eth_relative_wealth_index.csv
